@@ -7,7 +7,7 @@
     <title>Payment Form</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: tmills, sans-dami;
             background-color: #f0f0f0;
             text-align: center;
         }
