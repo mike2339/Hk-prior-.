@@ -19,3 +19,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+
+### **3️⃣ Configure Repository Settings**
+1. **Branch Protection Rules** (Go to Repository → Settings → Branches)
+   - Enable branch protection for `main`  
+   - Require pull request reviews before merging  
+   - Require status checks before merging  
+
+2. **Enable Issues & Discussions** (Go to Repository → Settings → General)
+   - Enable GitHub Issues for tracking bugs and features  
+   - Enable Discussions for community feedback  
+
+3. **Set Up GitHub Actions for Deployment**  
+   - Use GitHub Pages for automatic deployment  
+
+---
+
+#### ✅ Next Steps:
+1. Add `.gitignore` and `README.md` to the repository.  
+2. Configure repository settings in GitHub.  
+3. Push the latest changes to GitHub.  
+
+Would you like any modifications or additions?
