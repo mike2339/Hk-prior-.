@@ -66,4 +66,18 @@
     </div>
 </body>
 
-</html>
+</html># OLIFICEC WAVE 🌊
+
+**Olificec Wave** is a business-oriented webpage with dynamic content updates, a smart chatbot (OLIFICECBot), and a sleek design.
+
+## 🌟 Features
+- Interactive navigation menu
+- Dynamic content updates with JavaScript & API
+- AI-powered chatbot (OLIFICECBot)
+- Mobile-friendly & responsive design
+
+## 🚀 Getting Started
+### 1️⃣ Clone the repository:
+```sh
+git clone https://github.com/mike2339/olificec-wave.git
+cd olificec-wave
